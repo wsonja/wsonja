@@ -1,4 +1,14 @@
-## Hi there 👋
+## About Me 
+- 👋 Hi, I'm Sonja!
+- 🎓 CS @ Cornell University '28 
+- 📝 Check out my [LinkedIn](https://www.linkedin.com/in/sonja-wong/)!
+
+## Skills
+| **Skills** | |
+|:-----| :-----|
+| *Languages* | Python, Java, JavaScript, TypeScript, Swift, CSS, Sass, HTML, SQL | 
+| *Frameworks/Libraries:* | React, Node.js, Next.js, Express, SwiftUI, TailwindCSS, Axios |
+| *Tools:* | MongoDB, REST API, Git, PostgreSQL, Keras, Tensorflow, Pandas, SpringBoot, Excel, Power BI, Photoshop, Arduino, AutoCAD |
 
 <!--
 **wsonja/wsonja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
