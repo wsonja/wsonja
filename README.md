@@ -7,8 +7,8 @@
 | **Skills** | |
 |:-----| :-----|
 | *Languages* | Python, Java, JavaScript, TypeScript, Swift, CSS, Sass, HTML, SQL | 
-| *Frameworks/Libraries:* | React, Node.js, Next.js, Express, SwiftUI, TailwindCSS, Axios |
-| *Tools:* | MongoDB, REST API, Git, PostgreSQL, Keras, Tensorflow, Pandas, SpringBoot, Excel, Power BI, Photoshop, Arduino, AutoCAD |
+| *Frameworks/Libraries:* | React, Node.js, Next.js, Express, SwiftUI, SpringBoot, React Native, TailwindCSS, Axios |
+| *Tools:* | MongoDB, REST API, Git, PostgreSQL, Keras, Tensorflow, Pandas, Excel, Power BI, Photoshop, Arduino, AutoCAD |
 
 <!--
 **wsonja/wsonja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
