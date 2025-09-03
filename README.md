@@ -1,4 +1,4 @@
-<img width="468" height="54" alt="image" src="https://github.com/user-attachments/assets/42bb2c51-374e-4d79-a2bc-dff8a6ca136f" />## About Me 
+## About Me 
 - 👋 Hi, I'm Sonja!
 - 🎓 CS @ Cornell University '28 
 - 📝 Check out my [LinkedIn](https://www.linkedin.com/in/sonja-wong/)!
