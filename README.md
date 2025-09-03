@@ -1,4 +1,4 @@
-## About Me 
+<img width="468" height="54" alt="image" src="https://github.com/user-attachments/assets/42bb2c51-374e-4d79-a2bc-dff8a6ca136f" />## About Me 
 - 👋 Hi, I'm Sonja!
 - 🎓 CS @ Cornell University '28 
 - 📝 Check out my [LinkedIn](https://www.linkedin.com/in/sonja-wong/)!
@@ -6,9 +6,9 @@
 ## Skills
 | **Skills** | |
 |:-----| :-----|
-| *Languages* | Python, Java, JavaScript, TypeScript, Swift, CSS, Sass, HTML, SQL | 
-| *Frameworks/Libraries:* | React, Node.js, Next.js, Express, SwiftUI, SpringBoot, React Native, TailwindCSS, Axios, Keras, Tensorflow, Pandas |
-| *Tools:* | MongoDB, REST API, Git, MySQL, Excel, Power BI, Photoshop, Arduino, AutoCAD |
+| *Languages* | Python, Java, SQL, HTML, CSS, JavaScript, ReactJS, Typescript, Julia, Swift, Git, Bash | 
+| *Frameworks/Libraries:* | Keras, TensorFlow, Pandas, Node.js, MongoDB, Flask, Hugging Face, Spring Boot, SwiftUI, OpenAI API, LangChain, CrewAI |
+| *Tools:* | Excel, Microsoft Office, Docker, Kubernetes, n8n, Redshift, Snowflake, Linux, Jira |
 
 <!--
 **wsonja/wsonja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
