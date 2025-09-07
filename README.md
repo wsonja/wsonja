@@ -1,6 +1,6 @@
 ## About Me 
 - 👋 Hi, I'm Sonja!
-- 🎓 CS @ Cornell University '28 
+- 🎓 CS @ Cornell University '27 
 - 📝 Check out my [LinkedIn](https://www.linkedin.com/in/sonja-wong/)!
 
 ## Skills
