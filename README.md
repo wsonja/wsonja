@@ -1,12 +1,12 @@
 ## About Me 
 - 👋 Hi, I'm Sonja!
-- 🎓 CS @ Cornell University '27 
+- 🎓 CS @ Cornell University '28 
 - 📝 Check out my [LinkedIn](https://www.linkedin.com/in/sonja-wong/)!
 
 ## Skills
 | **Skills** | |
 |:-----| :-----|
-| *Languages* | Python, Java, SQL, HTML, CSS, JavaScript, ReactJS, Typescript, Julia, Swift, Git, Bash | 
+| *Languages* | Python, Java, SQL, HTML, CSS, JavaScript, ReactJS, Typescript, Ocaml, R, Julia, Swift, Git, Bash | 
 | *Frameworks/Libraries:* | Keras, TensorFlow, Pandas, Node.js, MongoDB, Flask, Hugging Face, Spring Boot, SwiftUI, OpenAI API, LangChain, CrewAI |
 | *Tools:* | Excel, Microsoft Office, Docker, Kubernetes, n8n, Redshift, Snowflake, Linux, Jira |
 
